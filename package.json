@@ -1,0 +1,18 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "Bank application account",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "bank",
+    "withdraw",
+    "deposit"
+  ],
+  "author": "Malek GORCHENE",
+  "license": "ISC"
+}
